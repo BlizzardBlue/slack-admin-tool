@@ -1,2 +1,5 @@
-# Slack Tokens
-token_web = 'place your Web API token here (https://api.slack.com/web)'
+# DB
+db_host = 'DBMS host address'
+db_username = 'username'
+db_password = 'password'
+db_db = 'database'
